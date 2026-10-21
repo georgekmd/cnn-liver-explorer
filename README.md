@@ -1,9 +1,9 @@
 # How a computer sees a donor liver
 
-An interactive companion to the Transplant International article
+An interactive companion for the Transplant International article
 *Decoding AI for transplantation: how computers see* (Decoding AI for Transplantation series).
 
-**Open the tool:** https://geokour.github.io/cnn-liver-explorer/
+**Open the tool:** https://georgekmd.github.io/cnn-liver-explorer/
 
 Five steps from an image to an answer, worked through on a photograph, a CT slice
 or a biopsy slide of a steatotic and a non-steatotic donor liver:
@@ -18,7 +18,7 @@ Everything runs in the browser. Nothing is uploaded.
 
 ## Video
 
-https://github.com/user-attachments/assets/a113f89e-97d3-451c-8a68-a38dc274ac99
+VIDEO_PLACEHOLDER
 
 [Download the video (MP4, 1080p)](media/inside_a_cnn.mp4)
 
@@ -34,8 +34,8 @@ https://github.com/user-attachments/assets/a113f89e-97d3-451c-8a68-a38dc274ac99
 
 ## Notes
 
-All six images are AI-generated illustrations (ChatGPT, gpt-image), not patient images.
-CT Hounsfield values were assigned for teaching and are not measurements.
+All six images were AI-generated illustrations (ChatGPT, gpt-image), not patient images.
+CT Hounsfield values were assigned for demonstration and are not measurements.
 This is a teaching tool, not a clinical tool.
 
 ## Citation
