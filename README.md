@@ -18,7 +18,7 @@ Everything runs in the browser. Nothing is uploaded.
 
 ## Video
 
-VIDEO_PLACEHOLDER
+https://github.com/user-attachments/assets/70927612-21f3-47d9-9e3b-203fae31de73
 
 [Download the video (MP4, 1080p)](media/inside_a_cnn.mp4)
 
