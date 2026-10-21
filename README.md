@@ -16,11 +16,28 @@ or a biopsy slide of a steatotic and a non-steatotic donor liver:
 
 Everything runs in the browser. Nothing is uploaded.
 
+## Video
+
+VIDEO_PLACEHOLDER
+
+[Download the video (MP4, 1080p)](media/inside_a_cnn.mp4)
+
+## Figures
+
+**Figure 1.** Two ways a computer can assess a donor liver image, three tasks, and three kinds of image.
+
+![Figure 1](media/figure1.png)
+
+**Figure 2.** Inside a convolutional neural network.
+
+![Figure 2](media/figure2.png)
+
+## Notes
+
 All six images are AI-generated illustrations (ChatGPT, gpt-image), not patient images.
 CT Hounsfield values were assigned for teaching and are not measurements.
 This is a teaching tool, not a clinical tool.
 
 ## Citation
 
-Kourounis G, et al. Decoding AI for transplantation: how computers see. Transplant International (2026).
-Software archived at Zenodo: DOI to be added.
+TBC
