@@ -3,7 +3,7 @@
 An interactive companion to the Transplant International article
 *Decoding AI for transplantation: how computers see* (Decoding AI for Transplantation series).
 
-**Open the tool:** https://USERNAME.github.io/cnn-liver-explorer/
+**Open the tool:** https://geokour.github.io/cnn-liver-explorer/
 
 Five steps from an image to an answer, worked through on a photograph, a CT slice
 or a biopsy slide of a steatotic and a non-steatotic donor liver:
