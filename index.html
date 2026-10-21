@@ -664,8 +664,8 @@ const LAYER_INFO_PHOTO = [
   { name: "Layer 1", sub: "Edges and colour", maps: [
     "Edge strength in any direction. Bright wherever brightness changes sharply, such as the outline of the liver and the ligament.",
     "Horizontal edges only. Bright along the top and bottom borders.",
-    "Yellowness: red and green high, blue low. Fat makes the surface yellow, so this map is brighter on the fatty liver.",
-    "Redness: red high, green low. Brighter on the healthy liver.",
+    "Yellowness: red and green high, blue low. Fat makes the surface yellow, so this map is brighter on the steatotic liver.",
+    "Redness: red high, green low. Brighter on the non-steatotic liver.",
   ] },
   { name: "Layer 2", sub: "Textures", maps: [
     "How uneven the yellowness is over a small area. A mottled surface scores high.",
@@ -674,7 +674,7 @@ const LAYER_INFO_PHOTO = [
     "How uneven the redness is over a small area.",
   ] },
   { name: "Layer 3", sub: "Larger patterns", maps: [
-    "Areas that are both yellow and mottled. Broad patches light up on the fatty liver.",
+    "Areas that are both yellow and mottled. Broad patches light up on the steatotic liver.",
     "Large yellow blobs, summarised across a wide area.",
     "The overall shape of the organ.",
     "Large areas of uneven texture.",
